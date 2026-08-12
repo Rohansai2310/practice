@@ -1,2 +1,2 @@
 # practice
-Learning ti
+Learning git
